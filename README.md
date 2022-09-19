@@ -2,9 +2,9 @@
 
 
 
-#Lock out event
+## Lock out event
 
-#Please enter the user name like Test NOT Test@domain.com
+### Please enter the user name like Test NOT Test@domain.com
 
 ```
 $UserName = Read-Host "Please enter the user name"
